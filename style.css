@@ -1,0 +1,19 @@
+body {
+    /* background-color: gray !important; */
+    background-image: url("./img.png");
+    color: white;
+}
+
+#T1{
+color: coral !important;
+background-color: beige;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 500;
+}
+
+.T3{
+    color: blueviolet;
+    color: rgb(60 50 50);
+    font-size: 50px;
+}

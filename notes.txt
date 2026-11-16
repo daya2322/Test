@@ -1,0 +1,22 @@
+CSS => Cascading Style Sheet
+
+types of css -> 3 typese
+                1- Internal CSS
+                2 - External CSS
+                3- Inline CSS
+
+1 - Internal CSS =>
+        inside the head tag (<Style></Style>)
+
+2 - External CSS =>
+          external css file
+
+3 - Inline CSS => 
+          inside tags
+
+
+Class & Id Selector
+
+Class => (.)
+
+Id =>  (#) 

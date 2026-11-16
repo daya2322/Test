@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    /* background-image: url("./img.png"); */
+    color: red;
+}
+
+.rgb{
+    font-size: 50px;
+    color: rgb(50 90 100);
+}
+
+.text{
+    font-size: 40px;
+    color: rgb(209, 137, 50);
+    border-style: double;
+    border-width: 5px;
+    border-radius: 50px;
+    border-color: rgb(138, 14, 196);
+}
